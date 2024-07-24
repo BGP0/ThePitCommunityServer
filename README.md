@@ -1,5 +1,5 @@
 ## Setup
-
+x
 You must have Java 17 and Java 8 installed on your system to run various scripts and compilation steps.
 
 1. [Install Java 17 (Amazon Corretto)](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html)
